@@ -1,4 +1,4 @@
-# ExperiBot
+# XperiBot
 ## Telegram bot to keep track of ML experiments
 
 Installation: 
