@@ -2,7 +2,7 @@
 ## Telegram bot to keep track of ML experiments
 
 Installation: 
-- pip install experibot
+- pip install XperiBot
 
 Bot usage: 
 - /raw_scalars Show the last iteration of selected scalars
